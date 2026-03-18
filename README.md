@@ -35,7 +35,7 @@ The system differentiates between standard users and administrative accounts:
 
 ---
 
-## 📂 System Design
+## 📂 Project Directory Structure
 
 ```text
 movieflix/
