@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* If you want to keep your custom layers (base, components), 
+   v4 uses a different syntax. Here is the translated version: */
+@layer base {
+    /* Your base styles here */
+}
+
+@layer components {
+    /* Your components styles here */
+}
