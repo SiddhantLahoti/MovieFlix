@@ -93,5 +93,3 @@ movieflix/
 | **GET** | `/api/rentals/all` | Admin | Fetches global rental logs with user details. |
 
 ---
-
-**Would you like me to generate a similar professional README for your ShiftSync project as well?**
